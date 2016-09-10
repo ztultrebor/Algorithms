@@ -1,6 +1,6 @@
 # Algorithms
 
-- A collection of algorithms I wrote in conjunction with varius online courses
+- A collection of algorithms I wrote in conjunction with various online courses
 - All code is written in Julia
 
 ## Dijkstra's Shortest Path
