@@ -12,4 +12,4 @@
 ## Binary Search Tree
 
 - A simple binary search tree construction. Use it for whatever you want to use a binary search tree for. Does not contain red.black capability (yet).
-- Provides a test case to verify that it works--sort a list of randomized integers. I know that's not what anyone wants a binary search tre for, but it proves that it works properly.
+- Provides a test case to verify that it works--sort a list of randomized integers. I know that's not what anyone wants a binary search tree for, but it proves that it works properly.
